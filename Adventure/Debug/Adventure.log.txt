@@ -1,0 +1,6 @@
+﻿  Adventure.cpp
+c:\users\joshuaschuh17\google drive\programming c++\visual studio 2015\projects\adventure\adventure\adventure.cpp(61): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\joshuaschuh17\google drive\programming c++\visual studio 2015\projects\adventure\adventure\adventure.cpp(65): warning C4129: '|': unrecognized character escape sequence
+c:\users\joshuaschuh17\google drive\programming c++\visual studio 2015\projects\adventure\adventure\adventure.cpp(66): warning C4129: ' ': unrecognized character escape sequence
+c:\users\joshuaschuh17\google drive\programming c++\visual studio 2015\projects\adventure\adventure\adventure.cpp(68): warning C4129: '_': unrecognized character escape sequence
+  Adventure.vcxproj -> C:\Users\JoshuaSchuh17\Google Drive\Programming C++\Visual Studio 2015\Projects\Adventure\Debug\Adventure.exe
